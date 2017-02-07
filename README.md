@@ -1,2 +1,4 @@
-# -un-effective-waterfall
-(UN)Effective Waterfall
+# (UN) Effective Waterfall
+
+## 謝辞
+　私たちは、先輩方の厳格な指導のもと、多くのメンバーと失敗や困難を共にしてきました。そんな中で常に私たちと共にあり続けたのが「ウォーターフォール開発」でした。偉大な先輩方、かつてのメンバー、及びそこから得られた素晴らしい経験に感謝を込めて、この「(UN)Effective Waterfall」をまとめました。
