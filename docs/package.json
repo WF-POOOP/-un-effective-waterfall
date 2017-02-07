@@ -1,0 +1,25 @@
+{
+  "name": "un-effective-waterfall",
+  "version": "0.1.0",
+  "description": "(UN)Effective Waterfall",
+  "main": "index.js",
+  "scripts": {
+    "gitbook": "gitbook"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WF-POOOP/-un-effective-waterfall.git"
+  },
+  "keywords": [
+    "pooop"
+  ],
+  "author": "alchemylove,shimohi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WF-POOOP/-un-effective-waterfall/issues"
+  },
+  "homepage": "https://github.com/WF-POOOP/-un-effective-waterfall#readme",
+  "dependencies": {
+    "gitbook-cli": "^2.3.0"
+  }
+}
